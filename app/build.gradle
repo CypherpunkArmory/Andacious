@@ -8,7 +8,7 @@ android {
     buildToolsVersion "33.0.0"
 
     defaultConfig {
-        applicationId "tech.ula.andacity"
+        applicationId "tech.ula.andacious"
         minSdkVersion 21
         targetSdkVersion 33
 

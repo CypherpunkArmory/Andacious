@@ -1,4 +1,4 @@
-package tech.ula.andacity
+package tech.ula.andacious
 
 import org.junit.Test
 

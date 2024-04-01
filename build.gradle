@@ -5,7 +5,7 @@ buildscript {
         appVersionCode = vcode
         appVersionName = '0.0.1'
         orientation = "unspecified"
-        provider_authority = "tech.ula.andacity.provider.fileprovider"
+        provider_authority = "tech.ula.andacious.provider.fileprovider"
         support_assets_version = "v1.2.40"
         kotlin_version = '1.5.10'
         android_plugin = '4.1.1'
